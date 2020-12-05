@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Separated.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\USER\Desktop\MegaJam2020-Project\Project\Separated\Intermediate\Build\Win64\SeparatedEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\USER\Desktop\MegaJam2020-Project\Project\Separated\Intermediate\Build\Win64\UE4Editor\Development\Separated\Separated.cpp.obj"
+"C:\Users\USER\Desktop\MegaJam2020-Project\Project\Separated\Intermediate\Build\Win64\UE4Editor\Development\Separated\SeparatedGameModeBase.cpp.obj"
+"C:\Users\USER\Desktop\MegaJam2020-Project\Project\Separated\Intermediate\Build\Win64\UE4Editor\Development\Separated\Separated.init.gen.cpp.obj"
+"C:\Users\USER\Desktop\MegaJam2020-Project\Project\Separated\Intermediate\Build\Win64\UE4Editor\Development\Separated\SeparatedGameModeBase.gen.cpp.obj"
+"C:\Users\USER\Desktop\MegaJam2020-Project\Project\Separated\Intermediate\Build\Win64\UE4Editor\Development\Separated\Default.rc2.res"
+/OUT:"C:\Users\USER\Desktop\MegaJam2020-Project\Project\Separated\Intermediate\Build\Win64\UE4Editor\Development\Separated\UE4Editor-Separated.lib"
+/INCLUDE:IMPLEMENT_MODULE_Separated

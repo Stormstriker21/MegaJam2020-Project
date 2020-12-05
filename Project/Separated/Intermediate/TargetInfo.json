@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Separated",
+			"Path": "C:\\Users\\USER\\Desktop\\MegaJam2020-Project\\Project\\Separated\\Source\\Separated.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SeparatedEditor",
+			"Path": "C:\\Users\\USER\\Desktop\\MegaJam2020-Project\\Project\\Separated\\Source\\SeparatedEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
